@@ -16,4 +16,5 @@
 
 ## Note
 - Make sure you enter valid numbers for Task 1.
-- Division by zero is handled.
+- Division by zero is handled for Task 1.
+- Make sure you enter the values for First Name and Last Name for Task 2.
