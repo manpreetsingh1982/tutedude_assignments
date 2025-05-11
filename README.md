@@ -1,11 +1,15 @@
 # Assignment 1 - Module 2: Basic Python Concepts
 
-## Task 1: Perform Basic Mathematical Operations
+## ✅ Task 1: Perform Basic Mathematical Operations
+
+### 📌 Problem Statement:
 - Takes two numbers as input.
 - Performs addition, subtraction, multiplication, and division.
 - Displays the results.
 
-## Task 2: Create a Personalized Greeting
+## ✅ Task 2: Create a Personalized Greeting
+
+### 📌 Problem Statement:
 - Takes user's first name and last name as input.
 - Concatenates them into a full name.
 - Displays a personalized greeting.
@@ -23,13 +27,17 @@
 
 This repository contains basic Python programs for practicing control structures as per **Module 3** guidelines.
 
-## Task 1: Even or Odd Checker
+## ✅ Task 1: Even or Odd Checker
+
+### 📌 Problem Statement:
 - Takes input from the user.
 - Checks if the input is an integer.
 - Determines if the number is even or odd using `if-else`.
 - Prints the result.
 
-## Task 2: Sum of Numbers from 1 to 50
+## ✅ Task 2: Sum of Numbers from 1 to 50
+
+### 📌 Problem Statement:
 - Uses a `for` loop to sum all numbers from 1 to 50.
 - Prints the final total.
 
