@@ -14,10 +14,6 @@
 - Concatenates them into a full name.
 - Displays a personalized greeting.
 
-## How to Run
-- Clone the repository.
-- Run each `.py` file using Python 3.
-
 ## Note
 - Make sure you enter valid numbers for Task 1.
 - Division by zero is handled for Task 1.
