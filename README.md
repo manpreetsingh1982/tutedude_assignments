@@ -56,6 +56,26 @@ This repository contains two Python programs that demonstrate the use of **funct
   - Natural logarithm (base e)
   - Sine (in radians)
 
+# Assignment 4: Files, Exceptions, and Errors in Python
+
+This repository contains two Python programs that demonstrate basic file operations and error handling using control structures and exception blocks.
+
+---
+
+## ✅ Task 1: Read a File and Handle Errors
+
+### 📌 Problem Statement:
+- Open and read a file named `content.txt`.
+- Print its content line by line with line numbers.
+- Handle the case where the file does not exist.
+
+## ✅ Task 2: Write and Append Data to a File
+
+### 📌 Problem Statement:
+- Take user input and write it to `content.txt`.
+- Take additional input and append it to the same file.
+- Display the final content of the file.
+
 ## How to Run
 - Clone the repository.
 - Run each `.py` file using Python 3.
