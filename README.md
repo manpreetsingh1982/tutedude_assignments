@@ -76,6 +76,26 @@ This repository contains two Python programs that demonstrate basic file operati
 - Take additional input and append it to the same file.
 - Display the final content of the file.
 
+# Assignment 5: Data Structures and Strings in Python
+
+This repository contains Python programs for Assignment 5, which focuses on using dictionaries, lists, and string operations in Python.
+
+---
+
+## 📘 Module 6: Data Structures and Strings
+
+### 🔹 Task 1: Create a Dictionary of Student Marks
+
+#### 📋 Problem Statement:
+- Create a dictionary where student names are keys and their marks are values.
+- Ask the user to input a student's name.
+- Retrieve and display the corresponding marks.
+- If the student’s name is not found, display an appropriate message.
+
+#### ✅ Features:
+- Validates if the student exists in the dictionary.
+- Handles case when input is not found.
+
 ## How to Run
 - Clone the repository.
 - Run each `.py` file using Python 3.
