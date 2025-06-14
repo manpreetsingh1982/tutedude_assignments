@@ -96,6 +96,30 @@ This repository contains Python programs for Assignment 5, which focuses on usin
 - Validates if the student exists in the dictionary.
 - Handles case when input is not found.
 
+# Assignment 6: Calculator Using Tkinter
+
+This project is a **very basic calculator app** built using Python's `tkinter` library. It is designed especially for beginners to understand how GUI applications work in Python.
+
+---
+
+## 📘 Module 10 & 11: GUI Programming with Tkinter
+
+### ✅ Objective
+- To create a simple graphical calculator.
+- Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
+- Handle errors like invalid input or division by zero.
+- Provide a clear and reset option.
+
+---
+
+## 🖥️ Features
+- **User-friendly interface** using buttons and a text entry box.
+- **Basic operations**: +, -, *, /
+- **Clear** button to reset input.
+- **Error handling**: displays `Error` if the expression is invalid.
+
+---
+
 ## How to Run
 - Clone the repository.
 - Run each `.py` file using Python 3.
